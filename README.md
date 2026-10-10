@@ -172,9 +172,6 @@ Select **Kernel -> Restart & Run All** to execute all analytical cells from begi
 ---
 
 ## 11. Author & Submission Information
-- **Author / Candidate:** `[Your Name / Candidate Name]`
+- **Author / Candidate:** `[Mihir Binnar]`
 - **Role:** Data Analytics Intern / Credit Risk Analyst
-- **Course / Program:** Data Analytics Internship Program
-- **Submission Date:** October 2026
-- **Contact:** `[your.email@example.com]`
-- **LinkedIn / Portfolio:** `[https://www.linkedin.com/in/yourprofile]`
+
