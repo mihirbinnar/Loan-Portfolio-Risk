@@ -173,5 +173,5 @@ Select **Kernel -> Restart & Run All** to execute all analytical cells from begi
 
 ## 11. Author & Submission Information
 - **Author / Candidate:** `[Mihir Binnar]`
-- **Role:** Data Analytics Intern / Credit Risk Analyst
+
 
